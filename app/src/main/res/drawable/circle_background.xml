@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/card_background_color"/>  <!-- Warna latar belakang -->
+    <corners android:radius="600dp"/>  <!-- Radius lingkaran -->
+</shape>

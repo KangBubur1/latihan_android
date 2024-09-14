@@ -1,0 +1,70 @@
+<resources>
+    <string-array name="data_name">
+        <item>Serum GlowBright</item>
+        <item>Pelembab HydrateX</item>
+        <item>Foundation VelvetSmooth</item>
+        <item>Shampoo PureSilk</item>
+        <item>Krim SoftTouch</item>
+        <item>Sabun FreshAura</item>
+        <item>Vya Naturals</item>
+        <item>Serum Whitening</item>
+        <item>Krim Malam RevitaGlow</item>
+        <item>Lotion SmoothCare</item>
+        <item>Dispenser Elegance</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Serum wajah untuk mencerahkan kulit dan menjaga kelembapan sepanjang hari.</item>
+        <item>Pelembab kulit intensif yang menutrisi dan menghidrasi kulit kering.</item>
+        <item>Foundation dengan hasil akhir matte yang lembut dan tahan lama.</item>
+        <item>Shampoo dengan kandungan alami yang membuat rambut halus dan berkilau.</item>
+        <item>Krim tangan yang melembutkan kulit kering dan kasar, memberikan kelembutan instan.</item>
+        <item>Sabun mandi yang menyegarkan dengan aroma segar untuk kulit lembut.</item>
+        <item>Minyak wajah alami untuk perawatan kulit yang mendalam dan mengembalikan kilau alami.</item>
+        <item>Serum Whitening memberikan wajah lebih putih dan sehat tanpa meradang kulit.</item>
+        <item>Krim malam yang memperbaiki kulit saat tidur, membuat kulit tampak segar keesokan harinya.</item>
+        <item>Lotion tubuh yang melembapkan kulit dan membuatnya terasa halus sepanjang hari.</item>
+        <item>Dispenser sabun dengan desain elegan, cocok untuk kamar mandi modern.</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>$10.00</item>
+        <item>$12.50</item>
+        <item>$8.99</item>
+        <item>$15.00</item>
+        <item>$9.50</item>
+        <item>$11.00</item>
+        <item>$14.00</item>
+        <item>$13.25</item>
+        <item>$16.00</item>
+        <item>$18.00</item>
+        <item>$7.75</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://images.unsplash.com/photo-1585652757141-8837d676fac8?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1556227834-09f1de7a7d14?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://plus.unsplash.com/premium_photo-1673628167571-532a6c5f5d16?q=80&amp;w=2127&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&amp;w=1935&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1564594326930-17381130fd2e?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1598528738936-c50861cc75a9?q=80&amp;w=2080&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1599305090598-fe179d501227?q=80&amp;w=1964&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1629198688000-71f23e745b6e?q=80&amp;w=2080&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://plus.unsplash.com/premium_photo-1679064286611-ad551a46b126?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+    </string-array>
+    <string name="user_profile">User_profile</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="jessica">Jessica!</string>
+    <string name="item_photo">item_photo</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="price">price</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="top_10_safest_sunscreen">Top 10 safest sunscreen</string>
+    <string name="see_all">See all</string>
+    <string name="arrow">Arrow\n</string>
+    <string name="daniel">Daniel</string>
+    <string name="email">daniel.alexander8310@gmail.com</string>
+    <string name="splash">Splash</string>
+    <string name="app_name">GlowGems</string>
+</resources>
